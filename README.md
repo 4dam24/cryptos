@@ -1,2 +1,2 @@
-# codes
+# java codes
 Some java codes.
