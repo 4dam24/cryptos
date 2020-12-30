@@ -1,4 +1,4 @@
-# java
+# java encryption
 package szyfrowanie;
 
 
